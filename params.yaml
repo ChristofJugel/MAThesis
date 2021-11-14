@@ -1,4 +1,4 @@
-soil: "/content/drive/MyDrive/MAThesis/sample_data/soil"
+soil: "./sample_data/soil"
 heads: "./sample_data/heads"
 result_dir: './results/SynPlot/testA'
 type: ''
