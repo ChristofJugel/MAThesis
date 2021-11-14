@@ -1,0 +1,17 @@
+soil: "/content/drive/MyDrive/MAThesis/sample_data/soil"
+heads: "./sample_data/heads"
+result_dir: './results/SynPlot/testA'
+type: ''
+
+rows: 5
+columns: 10
+border: 1
+
+
+size: 55
+
+y_offset: 2
+x_offset: 2
+
+np_seed: 0
+p_sick: .7
